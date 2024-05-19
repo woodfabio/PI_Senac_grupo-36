@@ -5,6 +5,15 @@ Projeto Integrador - Senac EAD - Grupo 36
 Este trabalho consiste na descrição do processo de modelagem de um software para gestão de dados de um centro universitário capaz de cadastrar diferentes tipos de pessoas. Na fase anterior o projeto consistiu em diagramas em linguagem UML descrevendo as diferentes classes utilizadas no software bem como diagramas de casos de uso descrevendo os cenários e ações contemplados por ele. Nesta fase serão apresentadas as telas dos casos de uso, o quais serão formulados em conformidade com as classes criadas, seus atributos e métodos.
 
 # Documentação
+
+## /diagrams
+Pasta com as imagens dos diagramas UML do sistema.
+
+### Diagrama UML classes.png
+Diagrama UML de classes especificando os atributos e relacionamentos referentes às classes utilizadas no sistema.
+
+</br>
+
 ## /screens
 Pasta com as imagens das telas como são apresentadas ao usuário.
 
