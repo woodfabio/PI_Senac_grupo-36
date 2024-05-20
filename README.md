@@ -12,6 +12,12 @@ Pasta com as imagens dos diagramas UML do sistema.
 ### Diagrama UML classes.png
 Diagrama UML de classes especificando os atributos e relacionamentos referentes às classes utilizadas no sistema.
 
+### Diagrama UML casos de uso 01.png
+Diagrama UML de casos de uso relacionados a usuários das classes _Professor_ e _Aluno_.
+
+### Diagrama UML casos de uso 02.png
+Diagrama UML de casos de uso relacionados a usuários do tipo Cliente e da classe _Fornecedor_.
+
 </br>
 
 ## /screens
